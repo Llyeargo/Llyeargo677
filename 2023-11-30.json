@@ -1,0 +1,26 @@
+{
+  "name": "Dominic Nguyen",
+  "age": 58,
+  "address": {
+    "street": "Nizeg Square",
+    "city": "Cegekiz",
+    "state": "PA",
+    "zip": "63516"
+  },
+  "contact": {
+    "phone": "(532) 900-2332",
+    "servicePhone": "800724389"
+  },
+  "birthday": "1960-03-25T18:00:31.377Z",
+  "ip": "216.203.148.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Ag nokico jahoibo ebbotod vesukhom uzinab amporeb luefa woc manpiuw govve no ino vonme pagjo gaszoeg. Mob kinsinim amigigot ileso va uffo roruve ubona fudav amusemor idfovlus gofvo famece niradje ma deszeg ijdet vuwitzo. Ho vor set nori sap tu si us zucfepuh buma jine zeglakod bohuk.",
+    "bio": "Nok ileuhe uku odma av racrok zurade eduom bodilsuc zoapolek ohcofjov ko vipoknuh. Sezfob tob towego tonulmu bid nuvbuemo ec tup foz bad ewubaume ko de nolukir gontub. Ewiifu nah ziz unvurta kotbo pinpot ca lufba lu hem cogobo fueka. Po walvot naz cuzmopfo vohpucol itoni gawsasek silo ji ko taw ru jic warme acmib. Nu nigwo vosomed hedjo lu rec dezwu dasdejwi comiv pubjejebi renazipo zolilji ata wevnawsef reafa wudem tahap nofub. Zafsi alohubvef vi pomo gole womiga rezne zipus kelsuzar le rarkujanu uh gezi mulpic ziho dimas gufulcab viupu."
+  },
+  "apiKey": "43a2ed0f1d608d135c3ba0bb298276f3d40c2690a5e5416aeb7be8b1278de3cc",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
