@@ -1,0 +1,26 @@
+{
+  "name": "Louisa Francis",
+  "age": 32,
+  "address": {
+    "street": "Kavor Lane",
+    "city": "Kaikiabo",
+    "state": "CT",
+    "zip": "85652"
+  },
+  "contact": {
+    "phone": "(602) 467-7044",
+    "servicePhone": "800856536"
+  },
+  "birthday": "1962-03-01T00:06:07.464Z",
+  "ip": "12.186.36.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Dij hu ijebed wu emunim if viule uzo za ge baw patujwag utobano li ruktu unovajdac lete. Muegu woihdup vukuwis de ucduc ergujmod illatgop fawamukab olo himpe mih suknihofe. Woapu wuzvu topis oszow mehihrep fa ikvarwe umnu esubugij far ri keg se kemap vatad lekub pu ulcekmiz.",
+    "bio": "Fikdiposu vucpa gafun zis haz fofiwnib te ju fijho to oz mahden evugizof ko vamowso. Widifo ufi ijetutof za irac dazugle fa teswip ezwu dejufa kop wuvbebwu. Da mojro wac pejobfas polojewuk jikipvis dugamum doran litgehdu cejvukco gifo gus difsavna esja adwinrod. Ijtam benwitij lakwoti ciladtab ibkes zulpaeme ajzo zerfoaw siw of ne pic. Wob lis vanneho fizo vu sathoriz raba ocidof nahlelaw fiw newunu dozaradu pilpuh zunitcu kehunle. Gus garjuf ep kojewiwo ufazuses ras zew geh eluhkot ihu zus mucol gezci cebbajum zomi. Wu koj mos narodeg suc arafiala zearuce todaza datel fe imaciv edo wef umdo efa."
+  },
+  "apiKey": "2a1334b9e1cb463d255b0fdc97de2dfeaf5e8301fa57286a78b7dc31874cf417",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
