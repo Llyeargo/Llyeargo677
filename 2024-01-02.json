@@ -1,0 +1,26 @@
+{
+  "name": "Matthew Malone",
+  "age": 45,
+  "address": {
+    "street": "Tohjow Mill",
+    "city": "Palowuc",
+    "state": "MO",
+    "zip": "44362"
+  },
+  "contact": {
+    "phone": "(205) 722-6947",
+    "servicePhone": "800217648"
+  },
+  "birthday": "1974-02-20T17:46:54.808Z",
+  "ip": "149.102.238.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Kusra lab oz fodhej meoh tukrieho tad kembafzel paw fad di uto bu. Bajadmik evvego den valin puida oglonwu aju go ozalop ufuvovzot pi vihevuk. Urauducu jaluwe uhu mikveino uhobois ugdap vacovcu fev kil kov ickokat so vo. Kurvo ecazebeki to ce ri renab peze uzeave gi kevfu gevbari vakol ijuenheb alsoruz toncohob.",
+    "bio": "Uvusoko feora ekeofi sucedi sulilase koije lilfe osijo biwebu hibji ug azofuraw butomer ro vodpi omholcez ho. Obmihu lu bo hokladep pevtuzwo tiboper wefot ova ge lujo of ho ama waula otoconog zihagjuf ti. Huic lopi lenjecje beptu mahidig ucamorbit opnihi poga huguburit rowere onoizi on picpob al higo nesvib."
+  },
+  "apiKey": "e4f69b4f54f6db8ac2747a3881063c54b97760b248392535b36970b10b4b5367",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
