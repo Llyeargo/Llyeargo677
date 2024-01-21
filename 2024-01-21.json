@@ -1,0 +1,26 @@
+{
+  "name": "Jose Dean",
+  "age": 53,
+  "address": {
+    "street": "Peon Avenue",
+    "city": "Zomotte",
+    "state": "MD",
+    "zip": "62652"
+  },
+  "contact": {
+    "phone": "(754) 574-9792",
+    "servicePhone": "800148719"
+  },
+  "birthday": "1993-10-22T18:37:08.017Z",
+  "ip": "205.145.229.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Sable ullimu zuun wehlabila lo welahen rurkipej dugfa racig lefva mengow puzejpum robef ti tihefge faej tutuku. Ar kamolnak vo ri vepca aw fadatan nofi komi veti im deeminah uvigi ote ohe do pavduv ferol. Mewose regwik na he rup naipuben vadvuwwuf gip duuw ito vigpib do. Nalof azurivoce wul golsap mokum le muaptob wog tipato oca ehanomhej gor sukumewo bupizhun wathugin. Gig fakkan kotaze veh uti ilihebad anees pah se ogsi aha woh.",
+    "bio": "Palajiz duhih mu gov odu fu jeid acgooso jazo wuw ma va dupzowgud hite pijepca ow laf. Wohdimzo bojnen jej ituco vifi idjan za zonnimel tamaritu ofo dic soacet do cotisda camsovu juwaso famhuduk. Ji wu bici segwuhhu iseled biho vot lupugdaf ma mupo linukev gocovi tapebudu muz asi tejol ur kuehe."
+  },
+  "apiKey": "c0e11a278d6886ce38beb68093237fba775f654ebff715cf53485d20bab871c0",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
