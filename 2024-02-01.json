@@ -1,0 +1,26 @@
+{
+  "name": "Carlos Williams",
+  "age": 42,
+  "address": {
+    "street": "Muggad Plaza",
+    "city": "Lamvenge",
+    "state": "LA",
+    "zip": "84800"
+  },
+  "contact": {
+    "phone": "(974) 268-1623",
+    "servicePhone": "800482899"
+  },
+  "birthday": "1982-12-22T08:18:00.609Z",
+  "ip": "155.19.255.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Nikkivpe damzu ta ca hutje dijat ate lef uvhun nahkiohi cev baplod uf gu awigozo. Savuvi licaul bija zejjawo co didzow gom bosrazhov akufa aw ucisuupi vawuc. Gi jigba vifacges gohmafot nulwug saswemjil vandisas mesortup unbus otoliluk haag sinbuzew ruf. Siv zarza jifu rivetgi cajaso ozdechal ne kuc segcur kiic tuteb uropuji dinira bogcewgu. Icboka lav diw raguti hov nediv gijewbig ob jahhinif nosro cuwu wueza fovom mi wul jutebru.",
+    "bio": "Osefe wot uzzikip iz gitu tademuk ah elodibu pofizidic gehussa naaco di omze. Fa revuhte dowziz udupi fihwucme bad sapma supvev arakojhog kesibuca bada be bazulfeh sanohoedu naw atukegho. Ursondu silunej fatise sajkiiw lepa bot it owo dinbajog wibze pebnatur eciovu kuna. Cukroj perieju zunu tarula cinasjiv urorihuk su piluvma lu latnul teusipu rajnebsam galbu fe."
+  },
+  "apiKey": "27454c2ecd2bd0b017e8affceda2ae8eb7f1658f633f4b85d1ddf83001d7ea76",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
