@@ -1,0 +1,26 @@
+{
+  "name": "Kathryn Jensen",
+  "age": 18,
+  "address": {
+    "street": "Mano Plaza",
+    "city": "Utgizi",
+    "state": "AL",
+    "zip": "82789"
+  },
+  "contact": {
+    "phone": "(679) 381-5445",
+    "servicePhone": "800931413"
+  },
+  "birthday": "1973-11-10T11:37:01.704Z",
+  "ip": "140.176.207.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Azot sora senuvri rasuaco agadugul voscow riul wialbiz pigmetu va ze taihzih pitev zases. Abwu emuenete udi dew sunwofov go icildi usuokajid pi zapescuj hiv etori cetwi luvbij wuluju wac ceb. Haf pibu ezi kozvios zime citac iputuf gehni ra la lito gijro tap honbe jerucoze.",
+    "bio": "Tatiwiwi sowla zuk bi nonocsi mu uza ino puvte oloera jezib pin gohaj jojmuwe urabi nokjak midlewe. Sauki ahousi pumacad uf keb nuraz go orrubu erkutli mes rah jotazi cufewag. Jadwigeb vi ne ucouvozu leno sew gopdiwga hamihez tacisiw pehit otitugsoh weso iresur namu bul diut so. Dimni vitzag ikop jizumti dojruhi mibkin atjehug dik moucibu vevehuz mijli moj goutja ubeibde somwom jonla kawbifni. Zolubrat rilavnab mekguhle zo ece no jupe hi zot fadic peivav funri vojziw eri. Af rebep fucensa robeg nih afelelha obatumit siopoobi ribfo ciwpahe buv dipiiba zavop ku igezit nobtiz momliok."
+  },
+  "apiKey": "84cec176d3e3bf3674b703141bcdc0697a59b140ac08f8c23c0e4c05b1a3f000",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
