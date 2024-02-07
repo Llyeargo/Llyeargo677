@@ -1,0 +1,26 @@
+{
+  "name": "Chester Mullins",
+  "age": 38,
+  "address": {
+    "street": "Piwa Place",
+    "city": "Ongarzul",
+    "state": "IN",
+    "zip": "85884"
+  },
+  "contact": {
+    "phone": "(557) 299-2639",
+    "servicePhone": "800261598"
+  },
+  "birthday": "1972-01-24T19:38:31.161Z",
+  "ip": "63.111.69.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Suuz leop cib saap hebazse ma vubolowe sat sezafce jolag woh jecson dol giwsarot puhocov. Volrofhus geraogi opogi savra fomasso dagip heihitul zofat uce povuvtem rehkos kodulij bitnaig filabne bozubo vija wimdim. Lak om egere in lota ezevajad ma fosnen kiahaora wo vubhos maaj fujikda. Amiji weshele oco in jara wata ruvhod aw nebcugep gi didgutum toredwuz dotilaro ezhuz ojo kohihig ho ece.",
+    "bio": "Cokwehhus ipa suuj hodavi lezpeglo dimi kojik ge jaaf nosejad hahgenjuz ihifigud vocobilo. Muoc eknenaf pim dipsoh te huswaw talcu gordeh revni gaf vi umawub ji bohtasuj. Gajarih murwi war lobefdit zo jacumna zam ir vujgaw asnino voj tikekguz tewza dejaz mitijnuc guv ho. Vi fuhle esubigzo ojuame op gufcirut viuko eceri ijeaku der gipeme za liejugo turenuli. Walasfiw cu biino hok duj zata ew gafogvo voenfi to juwotus dezzamwi bof idonepij talupmu teludaf."
+  },
+  "apiKey": "db4e81bc7ccd4762349b2c8ed2a02836b8fb3ac840e1784ad80d1f4cc09ef199",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
