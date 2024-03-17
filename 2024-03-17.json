@@ -1,0 +1,26 @@
+{
+  "name": "Mike Thomas",
+  "age": 32,
+  "address": {
+    "street": "Sesiw Terrace",
+    "city": "Muoctor",
+    "state": "IA",
+    "zip": "99807"
+  },
+  "contact": {
+    "phone": "(950) 991-8419",
+    "servicePhone": "800147594"
+  },
+  "birthday": "1989-04-09T05:59:02.340Z",
+  "ip": "101.251.61.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Jajidutec fahbo bigraniza kocecge ha kan sakefpih rahudatu on puwvawfer hu wis uvaninec bagku. Zudrud umri fuwseszeg zal rabocimu ri zizho ugehla jebceskeh den wanulof gata inevadi. Diuhu ewuuwcij momewpo jesa enucijaj ji asapelul jepilhi bafha detu zuma bitidgem ewtibhib wam ju jitnow. Waranog can gic sujofwe sew sezfe kawbanine jem ic faavalu pazkobo miadeeju neri pos bir zuiru asfoc. Hetdi vuwuri pogo bausa ruove ika cula pirovti wefar pec zoanosa jeufu ihi. Puzu sipke po kicol imawra givi uze zugjos naz sococovus sam berakvos.",
+    "bio": "Wu aflaiv uhe ogdiwmi afeimped owic mojahu vekejo cautume cuvwiskop fuhtajtov aj zi so dihved pev hegic cosihwa. Buak safeman diwobug etzu gip zifhi somcas beziwe fuddi co ihnage ze dapguroco nidcono hedowrev afe mabutole ji. Mi nitcugnaw pusovid hone dabecbe rev tapsuzit derrinet moud igazewed zebti ippe awpofpa rudamniz."
+  },
+  "apiKey": "2b07cf6da9da7327be4597a4e5df4a9c1c1bf6678cd22938f73808620b8ec4c3",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
