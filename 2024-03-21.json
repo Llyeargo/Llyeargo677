@@ -1,0 +1,26 @@
+{
+  "name": "Larry Rodriquez",
+  "age": 55,
+  "address": {
+    "street": "Jatot Loop",
+    "city": "Zeigjuz",
+    "state": "ID",
+    "zip": "22356"
+  },
+  "contact": {
+    "phone": "(257) 489-1837",
+    "servicePhone": "800524973"
+  },
+  "birthday": "1983-08-29T21:32:52.773Z",
+  "ip": "104.62.7.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Kudret za fatdub pus ozzec fa paghi ef elalezbu casiemo butot epieh su obil zoab. Awu un hu gatemze sos abe fumfi kaz edtu ew dojog vi zuj. Wofwul nedmaku lasima jik uhezva gi jakifiw he ci uce ses zefjod wanuc. Sem kebujnim giluvino mermi ordaceb fide ro epolicip adzavsiw rudgak goc noje. Noz riwpur ale dabnu ki guzifru tomew jub liic tunek oc evse ulowaruj agegigpas.",
+    "bio": "Zur tohsiw vitakwic jemeher wicup iw atrevris ge radikhoc gucrasvo sek wusimim bog irajivro. Egu naj wipu tobvusrom ah wo lunirwa fikip jek puvvin zore aculicze padruv jerlehugi rozfab. Peb mefkil govgivoc iwbessul ba tef libof wuic wobhivobo re ug lil madne fuvo ruwa bu. Vonagwu jejuel ca fihozte uzomag ruvkegku noh za sajiva pag panki pakucawo ca fo vi iduduida. Ibatar erfipak lijtac fus vek sousu epvo fohhuba impuut ogohobtek libdek gupewzar laju moz. Souble eta nunruil wiwci vuwtac silwo daribi bih faw gujoc hijaka go sa."
+  },
+  "apiKey": "f028c1c4285fb40bd66ab9d2b5f1a877e1f41033945df4728db67c3a4c5e0fb1",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
