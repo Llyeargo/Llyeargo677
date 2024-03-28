@@ -1,0 +1,26 @@
+{
+  "name": "Madge Chandler",
+  "age": 55,
+  "address": {
+    "street": "Ogrup Park",
+    "city": "Ragemfi",
+    "state": "OH",
+    "zip": "23943"
+  },
+  "contact": {
+    "phone": "(606) 919-5688",
+    "servicePhone": "800299313"
+  },
+  "birthday": "1988-02-11T11:31:30.805Z",
+  "ip": "198.150.44.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Wa ija rec azbavvo guotuomu pigwocdu fanoih fe anpufe am curuve oji um fat. Vimmarvef iwuvej su allawef zuhzepet zubmu bebduja dueh miavja nerev ma den dirlohun. Li ner dufvolo ma dura koijopus cembehag vi baperfo turife ujjamep mini lur.",
+    "bio": "Tip izeg makur puak rupbukevi bugowejaz bov idnep ucuvupud nes mufsirov je muw munvomso zakwo umafam. Kissu ziv bobmud wabnapu ilcah fosarkif tim wu ziko pidhas dobe no gawsadu. Eho patolobe sazefhep boohvat pudib fegco ri mapsu vawler gukefev hejarzu ro."
+  },
+  "apiKey": "d4cdab45fb5ae49cb85940265ab70844ceccdc81c89994bbd7f5c00748fe6bed",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
