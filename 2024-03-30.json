@@ -1,0 +1,26 @@
+{
+  "name": "Jason Thompson",
+  "age": 53,
+  "address": {
+    "street": "Bavot Point",
+    "city": "Mufjacmip",
+    "state": "IN",
+    "zip": "77148"
+  },
+  "contact": {
+    "phone": "(845) 745-9562",
+    "servicePhone": "800821136"
+  },
+  "birthday": "2003-06-29T14:06:54.186Z",
+  "ip": "123.117.249.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Jar zened zefo nec vaeju kuziris pizekzo ig vad evbignec ro tarcof unavi golfeh. Uv we num pow sijwik vuasvet suraciga waf efaki jec une waozo detboohe vetpi azojaosu. Lezheg wacva cik ge ditmu va ogebu os is fa naacge filnulval ta ir ufbes ewokubun. Futfevvi ketnegik om ujidacmik ro wal lilkir wake mehu vavel edewu tohwac. Ejo utihecup kuguz gomcirkon vukojzi ne zipnotud larlerlu hib sidejo towasdi it ohvo. Da agu rouseir owodo ak pe bapevu moico palboz ej ej natolo su azidi rebe wiwrur.",
+    "bio": "Rol jezuki vogat fupfijtas hadafovav ir vuj wut kodsehgu ume va duafetez wewambu otgil zej. Oz amdeku fohpom ji uluwuw rowureb socigna mu mapem meplepet abuzu teh gipler. Ge azadojli ege ruhjik ki gawok bihug unipej vahooga ukadilde upeju emba hah."
+  },
+  "apiKey": "810d55d6f2372bb67126d36d85907e4578fa76bd448380397a650d99d0b966de",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
